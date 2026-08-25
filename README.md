@@ -6,7 +6,7 @@ GITHUB_USER: julian235234r54
 
 # Hola, soy Julian Andres Cabrera Murcia
 
-Estudiante de Ingeniería de Sistemas.
+Estudiante de Ingeniería Industrial.
 
 # Electiva VI - Ciencia de Datos - 2026-B
 
