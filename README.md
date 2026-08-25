@@ -1,6 +1,7 @@
 CONFIG
 FULL_NAME: Julian Andres Cabrera Murcia
 GITHUB_USER: julian235234r54
+
 # Electiva VI - Ciencia de Datos - 2026-B
 
 Repositorio de clase - Corporacion Universitaria del Huila (CORHUILA).
